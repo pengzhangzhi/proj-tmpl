@@ -1,4 +1,5 @@
 ### Project Homepage Example 
+- https://github.com/SlotFormer/SlotFormer.github.io
 - https://muse-model.github.io
 - https://github.com/pathak22/modular-assemblies/tree/gh-pages
 
